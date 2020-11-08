@@ -1,0 +1,12 @@
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\bin\x64\Debug\AktaslarArsiv.exe.config
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\bin\x64\Debug\AktaslarArsiv.exe
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\bin\x64\Debug\AktaslarArsiv.pdb
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.Form1.resources
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.login_screen.resources
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.exe
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.pdb
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.yönetici.resources
+C:\Users\muham\OneDrive\Desktop\AktaslarArsiv\AktaslarArsiv\obj\x64\Debug\AktaslarArsiv.csprojAssemblyReference.cache
